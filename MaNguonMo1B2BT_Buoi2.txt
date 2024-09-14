@@ -1,0 +1,140 @@
+{
+  "OSTYPE": "Windows_NT",
+  "Platform": "win32",
+  "RAM": 8277110784,
+  "USEDRAM": 7468929024,
+  "CPU": [
+    {
+      "model": "11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz",
+      "speed": 2688,
+      "times": {
+        "user": 123734,
+        "nice": 0,
+        "sys": 131453,
+        "idle": 3149953,
+        "irq": 4968
+      }
+    },
+    {
+      "model": "11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz",
+      "speed": 2688,
+      "times": {
+        "user": 106187,
+        "nice": 0,
+        "sys": 68375,
+        "idle": 3230578,
+        "irq": 875
+      }
+    },
+    {
+      "model": "11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz",
+      "speed": 2688,
+      "times": {
+        "user": 180859,
+        "nice": 0,
+        "sys": 132890,
+        "idle": 3091265,
+        "irq": 2078
+      }
+    },
+    {
+      "model": "11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz",
+      "speed": 2688,
+      "times": {
+        "user": 149421,
+        "nice": 0,
+        "sys": 84796,
+        "idle": 3170781,
+        "irq": 1140
+      }
+    },
+    {
+      "model": "11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz",
+      "speed": 2688,
+      "times": {
+        "user": 132734,
+        "nice": 0,
+        "sys": 101171,
+        "idle": 3171109,
+        "irq": 1156
+      }
+    },
+    {
+      "model": "11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz",
+      "speed": 2688,
+      "times": {
+        "user": 112203,
+        "nice": 0,
+        "sys": 79796,
+        "idle": 3213015,
+        "irq": 718
+      }
+    },
+    {
+      "model": "11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz",
+      "speed": 2688,
+      "times": {
+        "user": 148796,
+        "nice": 0,
+        "sys": 85468,
+        "idle": 3170750,
+        "irq": 953
+      }
+    },
+    {
+      "model": "11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz",
+      "speed": 2688,
+      "times": {
+        "user": 138562,
+        "nice": 0,
+        "sys": 72984,
+        "idle": 3193468,
+        "irq": 781
+      }
+    },
+    {
+      "model": "11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz",
+      "speed": 2688,
+      "times": {
+        "user": 87062,
+        "nice": 0,
+        "sys": 62453,
+        "idle": 3255500,
+        "irq": 750
+      }
+    },
+    {
+      "model": "11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz",
+      "speed": 2688,
+      "times": {
+        "user": 90468,
+        "nice": 0,
+        "sys": 59781,
+        "idle": 3254750,
+        "irq": 765
+      }
+    },
+    {
+      "model": "11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz",
+      "speed": 2688,
+      "times": {
+        "user": 103046,
+        "nice": 0,
+        "sys": 66687,
+        "idle": 3235265,
+        "irq": 875
+      }
+    },
+    {
+      "model": "11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz",
+      "speed": 2688,
+      "times": {
+        "user": 100828,
+        "nice": 0,
+        "sys": 63781,
+        "idle": 3240390,
+        "irq": 515
+      }
+    }
+  ]
+}
